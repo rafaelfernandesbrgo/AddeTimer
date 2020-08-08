@@ -1,5 +1,5 @@
 # AddeTimer
-  .NET project used for time tracking with specific features ordered by the client, with data being saved and retrieved from xml file.
+  .NET project used for time control with specific features ordered by the client, with data being saved and retrieved from xml file.
   
   ***
   
