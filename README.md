@@ -1,4 +1,4 @@
-# AddeTimer
+# Application-DotNet-Timer
   .NET project used for time control with specific features ordered by the client, with data being saved and retrieved from xml file.
   
   ***
